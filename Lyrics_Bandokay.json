@@ -1,0 +1,4626 @@
+{
+ "alternate_names": [
+  "(OFB) Bandokay",
+  "Bandokay (OFB)",
+  "Kemani Duggan"
+ ],
+ "api_path": "/artists/1687247",
+ "description": {
+  "plain": "Kemani Duggan (born circa 2001-2002), better known as Bandokay, is a UK drill artist who represents OFB (Original Farm Boys) from Broadwater Farm in Tottenham. Bandokay is well known for his trio that consists of Double Lz, SJ and Bandokay, which was previously called y.OFB.\n\nHis father was Mark Duggan, the man who\u2019s death by police shooting led to the 2011 England Riots. In an interview by The Guardian, Bandokay credited music for keeping him away from crime, and stated his desire to be away from police as a motivator:\n\nWhenever [the police] see me, they stop me, I get what they\u2019re trying to do \u2013 they\u2019re trying to take weapons. But I know they purposely stop me more than anyone else. They know who I am. They know who my dad is. So that\u2019s why I\u2019m trying to go through music and do something positive, so they don\u2019t have nothing to say about me.\n\nBandokay\u2019s popularity soared as the trio made hits such as Ambush and Purge, and continued to rise even more through other releases."
+ },
+ "facebook_name": "officialbandokay",
+ "followers_count": 49,
+ "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+ "id": 1687247,
+ "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+ "instagram_name": "bandokaay_ofb",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Bandokay",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Bandokay",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4212099,
+  "annotator_login": "basedlkj",
+  "api_path": "/referents/17773854",
+  "classification": "unreviewed",
+  "fragment": "Bandokay",
+  "id": 17773854,
+  "is_description": true,
+  "path": "/17773854/Bandokay/Bandokay",
+  "range": {
+   "content": "Bandokay"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17773854/Bandokay/Bandokay",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1687247",
+   "context": null,
+   "id": 1687247,
+   "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+   "link_title": "Bandokay",
+   "title": "Bandokay",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Bandokay"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17773854",
+    "body": {
+     "plain": "Kemani Duggan (born circa 2001-2002), better known as Bandokay, is a UK drill artist who represents OFB (Original Farm Boys) from Broadwater Farm in Tottenham. Bandokay is well known for his trio that consists of Double Lz, SJ and Bandokay, which was previously called y.OFB.\n\nHis father was Mark Duggan, the man who\u2019s death by police shooting led to the 2011 England Riots. In an interview by The Guardian, Bandokay credited music for keeping him away from crime, and stated his desire to be away from police as a motivator:\n\nWhenever [the police] see me, they stop me, I get what they\u2019re trying to do \u2013 they\u2019re trying to take weapons. But I know they purposely stop me more than anyone else. They know who I am. They know who my dad is. So that\u2019s why I\u2019m trying to go through music and do something positive, so they don\u2019t have nothing to say about me.\n\nBandokay\u2019s popularity soared as the trio made hits such as Ambush and Purge, and continued to rise even more through other releases."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17773854,
+    "pinned": false,
+    "share_url": "https://genius.com/17773854",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/17773854/Bandokay/Bandokay",
+    "verified": false,
+    "votes_total": 8,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6327683615819208,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6032628",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/y9g0nadb02l",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6032628,
+       "iq": 9492,
+       "login": "bruckily",
+       "name": "bruckily",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/bruckily",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3672316384180791,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4212099",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1680811036",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1680811036",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1680811036",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4212099,
+       "iq": 887,
+       "login": "basedlkj",
+       "name": "basedlkj",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/basedlkj",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/4753272",
+   "artist_names": "Bandokay",
+   "full_title": "YOO by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/2b934506c65acb93d795fdd218184a84.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2b934506c65acb93d795fdd218184a84.719x719x1.jpg",
+   "id": 4753272,
+   "language": "en",
+   "lyrics_owner_id": 2979987,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-yoo-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bandokay-yoo-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 8,
+    "day": 3
+   },
+   "release_date_for_display": "August 3, 2019",
+   "release_date_with_abbreviated_month_for_display": "Aug. 3, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/2b934506c65acb93d795fdd218184a84.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2b934506c65acb93d795fdd218184a84.719x719x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 79391
+   },
+   "title": "YOO",
+   "title_with_featured": "YOO",
+   "url": "https://genius.com/Bandokay-yoo-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1475410279",
+   "apple_music_player_url": "https://genius.com/songs/4753272/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4753272' class='rg_embed_link' data-song-id='4753272'>Read <a href='https://genius.com/Bandokay-yoo-lyrics'>\u201cYOO\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/4753272/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-08-03",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/551467",
+    "cover_art_url": "https://images.genius.com/93b4071029976e9c827b511ef471c4cb.1000x1000x1.jpg",
+    "full_title": "Frontstreet by OFB",
+    "id": 551467,
+    "name": "Frontstreet",
+    "release_date_for_display": "October 31, 2019",
+    "url": "https://genius.com/albums/Ofb/Frontstreet",
+    "artist": {
+     "api_path": "/artists/547629",
+     "header_image_url": "https://images.genius.com/e6fb69c87e0e5bf9a9e8f8c8dba21fb4.1000x561x1.jpg",
+     "id": 547629,
+     "image_url": "https://images.genius.com/2a7b1cfe83b8c3ef3659355d2238f992.718x718x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "OFB",
+     "url": "https://genius.com/artists/Ofb"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/3164171",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "id": 3164171,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rat Trap Records",
+       "url": "https://genius.com/artists/Rat-trap-records"
+      }
+     ]
+    },
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/3164171",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "id": 3164171,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rat Trap Records",
+       "url": "https://genius.com/artists/Rat-trap-records"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2476709",
+       "header_image_url": "https://images.genius.com/ff0574eaea96d863700ca74e8d012fef.900x600x1.jpg",
+       "id": 2476709,
+       "image_url": "https://images.genius.com/15eb1de41120472a71c19e35629fb4d3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Director Yukki",
+       "url": "https://genius.com/artists/Director-yukki"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/3164171",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "id": 3164171,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rat Trap Records",
+       "url": "https://genius.com/artists/Rat-trap-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/3164171",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "id": 3164171,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rat Trap Records",
+       "url": "https://genius.com/artists/Rat-trap-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 16118156,
+    "annotator_login": "TrueDon",
+    "api_path": "/referents/17739136",
+    "classification": "needs_exegesis",
+    "fragment": "YOO",
+    "id": 17739136,
+    "is_description": true,
+    "path": "/17739136/Bandokay-yoo/Yoo",
+    "range": {
+     "content": "YOO"
+    },
+    "song_id": 4753272,
+    "url": "https://genius.com/17739136/Bandokay-yoo/Yoo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4753272",
+     "client_timestamps": {
+      "updated_by_human_at": 1652740546,
+      "lyrics_updated_at": 1629261166
+     },
+     "context": "Bandokay",
+     "id": 4753272,
+     "image_url": "https://images.genius.com/2b934506c65acb93d795fdd218184a84.719x719x1.jpg",
+     "link_title": "YOO by\u00a0Bandokay",
+     "title": "YOO",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-yoo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17739136",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17739136,
+      "pinned": false,
+      "share_url": "https://genius.com/17739136",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17739136/Bandokay-yoo/Yoo",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/16118156",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sha0kf0r9ci",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sha0kf0r9ci",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sha0kf0r9ci",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sha0kf0r9ci",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2w82blcmapb",
+         "human_readable_role_for_display": "Transcriber",
+         "id": 16118156,
+         "iq": 99808,
+         "login": "TrueDon",
+         "name": "TrueDon",
+         "role_for_display": "transcriber",
+         "url": "https://genius.com/TrueDon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "ofb51996",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ofb51996/yo-feat-money-movements"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rSHRzhgDLRY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1835369",
+     "header_image_url": "https://images.genius.com/3a21ff1e421f1a5e743b2cc07861ff34.320x320x1.jpg",
+     "id": 1835369,
+     "image_url": "https://images.genius.com/3a21ff1e421f1a5e743b2cc07861ff34.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CraftAdicts",
+     "url": "https://genius.com/artists/Craftadicts"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "YOO Lyrics[Intro: SJ, Bandokay & Double Lz]\nGang shit, OFB, come on, free SJ man, you know how it gets\nCome on man\nGang shit\nTemporary lock down\nTruss me\nCome on, free my nigga\nComing back to shut tings down, truss me\nGang shit\nBando, yo\nAdd a K to the O get blammed\nYo, listen up\n[Verse 1]\nBarbies wanna wine and dine\nI'm telling them no from time to time\nSJ, that's gang, my slime\nWe was fourteen, throwing up gang signs\nBoogie B, I ain't seen him in time\nNo, my fam told me I should stay from crime\nMore time I gotta stand on the line for the grind\nGot a mash filled up with bine\nMy aunties still ask if I'm fine\nA lot's on my mind but trust me, I'm fine\nWe hopped out, told Lerkz he's mine\nBut he got there first so I caught up behind\nI'm not a man for Thorpe Park rides\nBut ask in the ends, man's going on glides\nYo, she wanna do Bonnie and Clyde\nHop off the moped, show man about glides\n\n[Chorus]\nWho's that brown skin cutie? Yo\nLook at her nails on fleek, yo\nSlim fit ting drip head to her toe\nIf I say I love you, will you hold this smoke?\nJust see opps in the ride like yo\nOh, oh, it's bro, yo\nI swear that I know that cat, yo, yo\nLike where you been? Hit me on my phone\nWho's that brown skin cutie? Yo\nLook at her nails on fleek, yo\nSlim fit ting drip head to her toe\nIf I say I love you, will you hold this smoke?\nJust see opps in the ride like yo\nOh, oh, it's bro, yo\nI swear that I know that cat, yo, yo\nLike where you been? Hit me on my phone\nYou might also like[Verse 2]\nBaking off with this brown skin hottie\nBut I might slap it off if I see them\nRiding out in this stolen BM\nLz showed you it's the shotgun season\nOFB ride out for no reason\nBro splashed him, the guys screaming \"leave him\"\nMore time we do drills in the evening\nBroad day, I do it anywhere man see them\nBandokay, I'm a boss on my block\nCall shots, ring shots at opps\nThis PR gets wrapped in socks\nAnd the shotty so tall so we chopped it off\nWe got blessed with a brand new dots\nNow I'm prayin' that we find a new link for Glocks\nRed light, foot down, don't stop\nKeep my foot on the gas, lay low from cops\nI'm in Enfield town, back windows down\n'Scuse me Miss, she leng and brown\nSkeng on me when I'm rolling 'round\nCah I don't wanna end up dead in the ground\nThe wheels on the dings go 'round and 'round\nYour whole estate gon' hear this sound\nBow, man got corn for clowns\nYou can call me too if he's there about\n[Chorus]\nWho's that brown skin cutie? Yo\nLook at her nails on fleek, yo\nSlim fit ting drip head to her toe\nIf I say I love you, will you hold this smoke?\nJust see opps in the ride like yo\nOh, oh, it's bro, yo\nI swear that I know that cat, yo, yo\nLike where you been? Hit me on my phone\nWho's that brown skin cutie? Yo\nLook at her nails on fleek, yo\nSlim fit ting drip head to her toe\nIf I say I love you, will you hold this smoke?\nJust see opps in the ride like yo\nOh, oh, it's bro, yo\nI swear that I know that cat, yo, yo\nLike where you been? Hit me on my phoneEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/5526621",
+   "artist_names": "Bandokay",
+   "full_title": "Patient by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/3a7bca9860ffafb459a20f41ae6c3d49.300x300x1.png",
+   "header_image_url": "https://images.genius.com/3a7bca9860ffafb459a20f41ae6c3d49.632x632x1.png",
+   "id": 5526621,
+   "language": "en",
+   "lyrics_owner_id": 2979987,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-patient-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Bandokay-patient-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 5,
+    "day": 7
+   },
+   "release_date_for_display": "May 7, 2020",
+   "release_date_with_abbreviated_month_for_display": "May. 7, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3a7bca9860ffafb459a20f41ae6c3d49.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/3a7bca9860ffafb459a20f41ae6c3d49.632x632x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 31345
+   },
+   "title": "Patient",
+   "title_with_featured": "Patient",
+   "url": "https://genius.com/Bandokay-patient-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1509065593",
+   "apple_music_player_url": "https://genius.com/songs/5526621/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5526621' class='rg_embed_link' data-song-id='5526621'>Read <a href='https://genius.com/Bandokay-patient-lyrics'>\u201cPatient\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/5526621/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-05-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2979987,
+    "annotator_login": "NxzA",
+    "api_path": "/referents/19806070",
+    "classification": "needs_exegesis",
+    "fragment": "Patient",
+    "id": 19806070,
+    "is_description": true,
+    "path": "/19806070/Bandokay-patient/Patient",
+    "range": {
+     "content": "Patient"
+    },
+    "song_id": 5526621,
+    "url": "https://genius.com/19806070/Bandokay-patient/Patient",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5526621",
+     "client_timestamps": {
+      "updated_by_human_at": 1589149785,
+      "lyrics_updated_at": 1589132141
+     },
+     "context": "Bandokay",
+     "id": 5526621,
+     "image_url": "https://images.genius.com/3a7bca9860ffafb459a20f41ae6c3d49.632x632x1.png",
+     "link_title": "Patient by\u00a0Bandokay",
+     "title": "Patient",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-patient-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19806070",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19806070,
+      "pinned": false,
+      "share_url": "https://genius.com/19806070",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19806070/Bandokay-patient/Patient",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2979987",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f75b3454285846b1e18b4e41b2d9744e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f75b3454285846b1e18b4e41b2d9744e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f75b3454285846b1e18b4e41b2d9744e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f75b3454285846b1e18b4e41b2d9744e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n9zjkkj37r",
+         "human_readable_role_for_display": "Editor",
+         "id": 2979987,
+         "iq": 136654,
+         "login": "NxzA",
+         "name": "NxzA",
+         "role_for_display": "editor",
+         "url": "https://genius.com/NxzA",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=X-uuObCfsOM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1216869",
+     "header_image_url": "https://images.genius.com/840c0ce7c3acbcffb6c904daeb7a4238.1000x333x1.jpg",
+     "id": 1216869,
+     "image_url": "https://images.genius.com/a6d88319209a61baeb40473f40c6e25c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M1OnTheBeat",
+     "url": "https://genius.com/artists/M1onthebeat",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/2226993",
+     "header_image_url": "https://images.genius.com/92914b3ecaf0cb8e22009fccb610744e.1000x1000x1.jpg",
+     "id": 2226993,
+     "image_url": "https://images.genius.com/a3536ac40db1d7fb29feabd01cd1f3cc.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ka7ton8",
+     "url": "https://genius.com/artists/Ka7ton8"
+    },
+    {
+     "api_path": "/artists/1559563",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "id": 1559563,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KN Beatz",
+     "url": "https://genius.com/artists/Kn-beatz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Patient Lyrics[Intro]\nKa7ton8\nKNBeatz\nBando\nM1OnTheBeat\nListen up\nAy\nYo\n\n[Chorus]\nI told bro we'll get that yute\nJust not to go now, wait, be more\u2005patient\u2005(Just chill, just\u2005chill, just chill)\nNow he's a hospital\u2005patient\nAfter school time, bucked nuttin' but paigons (Listen up)\nGyal said, \"can we go on vacation\"\nLookin' at her then she said, \"baecation\" (Sorry bae)\nDrip hard, drip fly\nI'ma buss my gun on any-\n[Verse 1]\nShe likes the way that I rap\nI'm likin' the way that she drips and that (Drip)\nTwo hand zips and that\nYardie dance with my spliff and yak (Yo)\nI hear bare man diss and chat\nK on the L, man piss on that (Bow)\nThe gang bring that wap, bring cash back\nIn the T house, make racks (That's racks)\nSuttin' got hit by the gun\nAnd now the whole block love pourin' rum (Bare liquor)\nHad to pattern the re-up for bro\nAnd now he on the phone askin' if it's done (Free Slim)\nGot two missed calls from Slim\nGot him on speed dial so I just hold one (Listen up)\nGot smoke in my lungs\nYou homeboy ain't right since shush got bun (Ay)\nSince shush got bun\nI got him right here in this fuck off zoot (In my zed)\nIf the yute ain't worth the ching or the smoke\nThen we gotta put him in the boot (Get dashed weh)\nFree SJ, he love ching and shoot\nShe love smile and grin, she cute (Ay)\nOff-white when I see her in the party\nDrip on fleek, how my barbies move (You know)\nBro said that he's missin' the roads\nMan told him the roads is missin' you too (Bring him back)\nHe just got down a opp on the landin'\nNow he's on block tryna fix up his screws\nXhing, shoot, execute (Ay, ay, ay)\nNow he's six foot, can't make no moves (No moves)\nYou should blame all your friends for the chattings\nNow you're not here, you're on the news (For the verbal)\nBro said they want interview\nWhilst he's in jail sittin' down for the mazza (Bomboclaat)\nAre they smokin' grabba?\nTold the press, don't shout my stabber (Free SJ)\nBro let it go fast, kept blood on\nNot gonna lie, but we know who's badder (Bow, bow)\nRide like-ride like one slapper\nOnly thing is we slapped that hammer (Ay)\nYou might also like[Chorus]\nI told bro we'll get that yute\nJust not to go now, wait, be more patient (Just chill, just chill, just chill)\nNow he's a hospital patient\nAfter school time, bucked nuttin' but paigons\nGyal said, \"can we go on vacation\"\nLookin' at her then she said, \"baecation\" (Sorry bae)\nDrip hard, drip fly\nI'ma buss my gun on any occasion (Listen up)\nI told bro-bro we'll get that yute\nJust not to go now, wait, be more patient (Just chill, just chill)\nNow he's a hospital patient\nAfter school time, bucked nuttin' but paigons\nGyal said, \"can we go on vacation\"\nLookin' at her and she said, \"baecation\" (Sorry bae)\nDrip hard, drip fly\nI'ma buss my gun on any occasion (Woi)\n\n[Verse 2]\nAnd why them man love sayin' my name?\nCome like my bitch when she gettin' dick (Stop it)\nShowed her how to drip\nAnd now she's out here saying men are shit (You're lyin')\nWe used to hide skengs in whips\nAnd had to shoot up old friends and shit (Old friends and shit)\nOld friends and shit\nAnd now we invest in expensive clips (They're shit, they're shit)\nEverybody sit tight, got me flyin' in style\nGot me burnin' the fuck out the tire (Skrr)\nYo, thought he was bad 'til he caught one\nNow he in there tryna sing like Mariah (Singer)\nBadman, you should've been in the choir\nBun informer, fire, fire\nSJ, OFB, real splash man\nThat's gang-gang, bro ain't no liar (Free him up, free him up)\nYo, bro's on trial for a M\nI phoned Mosey just to see how it goes (Listen up, listen up)\nUsed to rap his flows\nK up on him, guess everyone knows (Got a K, got a K)\nYo, got waps, that's smoke\nMy broski loves it, shouts Claps, that's bro (Clappy)\nWe don't love no hoes\nJust rise my right arm and let that go\nFront Street, we're the home of T\nIt's like pa say, it's nuttin' but pepper (Broadwater)\nGet holes in your sweater\nOn the landin', bro's like McGregor (Fuck him up, fuck him up)\nThis leng ting gives nuttin' but pressure\nSee her in the dance, got her dressed in leather\nShould've known better\nBuss off corn, go juice that wetter (Ching)\n[Chorus]\nI told bro we'll get that yute\nJust not to go now, wait, be more patient (Yo, yo)\nNow he's a hospital patient\nAfter school time, bucked nuttin' but paigons (Yo)\nGyal said, \"can we go on vacation\"\nLookin' at her and she said, \"baecation\"\nDrip hard, drip fly\nI'ma buss my gun on any occasion\nI told bro we'll get that yute\nJust not to go now, wait, be more patient\nNow he's a hospital patient\nAfter school time, bucked nuttin' but paigons\nGyal said, \"can we go on vacation\"\nLookin' at her and she said, \"baecation\"\nDrip hard, drip fly\nI'ma buss my gun on any occasion\n\n[Outro]\nKa7ton8\nKNBeatz\nM1OnTheBeat2Embed"
+  },
+  {
+   "annotation_count": 16,
+   "api_path": "/songs/6894086",
+   "artist_names": "Bandokay",
+   "full_title": "Slide by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/d385e04be600f9c75881cdb7672baf9a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d385e04be600f9c75881cdb7672baf9a.1000x1000x1.jpg",
+   "id": 6894086,
+   "language": "en",
+   "lyrics_owner_id": 12797886,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-slide-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bandokay-slide-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 6,
+    "day": 10
+   },
+   "release_date_for_display": "June 10, 2021",
+   "release_date_with_abbreviated_month_for_display": "Jun. 10, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d385e04be600f9c75881cdb7672baf9a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d385e04be600f9c75881cdb7672baf9a.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 26,
+    "iq_earners": 24,
+    "transcribers": 3,
+    "unreviewed_annotations": 16,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 21518
+   },
+   "title": "Slide",
+   "title_with_featured": "Slide",
+   "url": "https://genius.com/Bandokay-slide-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1568640144",
+   "apple_music_player_url": "https://genius.com/songs/6894086/apple_music_player",
+   "description": {
+    "plain": "this song about a dude who is Bragging about how he is good at sex"
+   },
+   "embed_content": "<div id='rg_embed_link_6894086' class='rg_embed_link' data-song-id='6894086'>Read <a href='https://genius.com/Bandokay-slide-lyrics'>\u201cSlide\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/6894086/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-06-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/622804",
+       "header_image_url": "https://images.genius.com/92914b3ecaf0cb8e22009fccb610744e.1000x1000x1.jpg",
+       "id": 622804,
+       "image_url": "https://images.genius.com/a90c1a930f4626f415ebb6d5de3cfc35.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sean D",
+       "url": "https://genius.com/artists/Sean-d"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/622804",
+       "header_image_url": "https://images.genius.com/92914b3ecaf0cb8e22009fccb610744e.1000x1000x1.jpg",
+       "id": 622804,
+       "image_url": "https://images.genius.com/a90c1a930f4626f415ebb6d5de3cfc35.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sean D",
+       "url": "https://genius.com/artists/Sean-d"
+      }
+     ]
+    },
+    {
+     "label": "Director",
+     "artists": [
+      {
+       "api_path": "/artists/1460764",
+       "header_image_url": "https://images.genius.com/f7251be7cfc5c887d626c127fc805a15.1000x300x1.png",
+       "id": 1460764,
+       "image_url": "https://images.genius.com/1105e46a98f206f89f60128bfb6d05ae.568x568x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Teeeezy C",
+       "url": "https://genius.com/artists/Teeeezy-c"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 15481143,
+    "annotator_login": "SSSDzgggdzs",
+    "api_path": "/referents/23229195",
+    "classification": "unreviewed",
+    "fragment": "Slide",
+    "id": 23229195,
+    "is_description": true,
+    "path": "/23229195/Bandokay-slide/Slide",
+    "range": {
+     "content": "Slide"
+    },
+    "song_id": 6894086,
+    "url": "https://genius.com/23229195/Bandokay-slide/Slide",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6894086",
+     "client_timestamps": {
+      "updated_by_human_at": 1672523042,
+      "lyrics_updated_at": 1672523043
+     },
+     "context": "Bandokay",
+     "id": 6894086,
+     "image_url": "https://images.genius.com/d385e04be600f9c75881cdb7672baf9a.1000x1000x1.jpg",
+     "link_title": "Slide by\u00a0Bandokay",
+     "title": "Slide",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-slide-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23229195",
+      "body": {
+       "plain": "this song about a dude who is Bragging about how he is good at sex"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 23229195,
+      "pinned": false,
+      "share_url": "https://genius.com/23229195",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/23229195/Bandokay-slide/Slide",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15481143",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1680811036",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1680811036",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1680811036",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+         "human_readable_role_for_display": null,
+         "id": 15481143,
+         "iq": 13,
+         "login": "SSSDzgggdzs",
+         "name": "SSSDzgggdzs",
+         "role_for_display": null,
+         "url": "https://genius.com/SSSDzgggdzs",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=kCyXTlOQMKU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2027941",
+     "header_image_url": "https://images.genius.com/96090aab14479e101c541bf63656df48.320x320x1.jpg",
+     "id": 2027941,
+     "image_url": "https://images.genius.com/95110391bb8ed31a35a97d1bd4269308.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SB Beats (Producer)",
+     "url": "https://genius.com/artists/Sb-beats-producer"
+    },
+    {
+     "api_path": "/artists/2683150",
+     "header_image_url": "https://images.genius.com/7330a152c50b81e2eab77f489b1d7dae.320x320x1.jpg",
+     "id": 2683150,
+     "image_url": "https://images.genius.com/7330a152c50b81e2eab77f489b1d7dae.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "UDLinkups",
+     "url": "https://genius.com/artists/Udlinkups"
+    },
+    {
+     "api_path": "/artists/2395843",
+     "header_image_url": "https://images.genius.com/0645c241e5e51a8a73114503cf442a5e.1000x1000x1.jpg",
+     "id": 2395843,
+     "image_url": "https://images.genius.com/2e28d5425b62b17701a92b52095b8897.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DT5 Beats",
+     "url": "https://genius.com/artists/Dt5-beats"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2408877",
+       "artist_names": "Mithoon & Arijit Singh",
+       "full_title": "Sanam Re by\u00a0Mithoon\u00a0& Arijit Singh",
+       "header_image_thumbnail_url": "https://images.genius.com/b9379a2de2985e3618bea3f727dc7327.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b9379a2de2985e3618bea3f727dc7327.1000x1000x1.jpg",
+       "id": 2408877,
+       "language": "ca",
+       "lyrics_owner_id": 2741377,
+       "lyrics_state": "complete",
+       "path": "/Mithoon-and-arijit-singh-sanam-re-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Mithoon-and-arijit-singh-sanam-re-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 1,
+        "day": 4
+       },
+       "release_date_for_display": "January 4, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jan. 4, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b9379a2de2985e3618bea3f727dc7327.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b9379a2de2985e3618bea3f727dc7327.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 13946
+       },
+       "title": "Sanam Re",
+       "title_with_featured": "Sanam Re",
+       "url": "https://genius.com/Mithoon-and-arijit-singh-sanam-re-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1840565",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+        "id": 1840565,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mithoon & Arijit Singh",
+        "url": "https://genius.com/artists/Mithoon-and-arijit-singh"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": "https://genius.com/Stormzy-shut-up-sample/remixes",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Slide Lyrics[Intro]\n(UDL with the bells)\nHe ain't making it out\nOne shot, two shot\n(H, beat it up) Bow\n(DT5 on the beat)\nBando\n\n[Chorus]\nBro put him in the air like he's taking a flight (Ah, god)\nHe ain't making it right\nOne shot, two shot, had him saving his life\nAlways had my rambo when I was raving at night\nCaught Dukes slipping, he weren't skating on ice (Slippin', slippin')\nGot caught off guard tryna straighten his eyes\nGot his head back, yep, boy come back here (Buss it)\nWhen they was here first weren't claiming them guys (Dickheads, dickheads)\nAye, gyal, arch up your back\nGyal, arch up your back, let me slide inside (Ay, ay)\nHer ting soaking when I slide inside\nGot her leg shaking it's a water slide (Slippin', slippin')\nEveryone knows Broadwater slides\nSays she loves bad man, tell your daughter hide\nEveryone knows Broadwater slides\nSays she loves bad man, tell your daughter hide\n[Verse 1]\nAnd now I'm running man down, got him looking right back (Where you goin'?)\nI'm running man down, why's he looking like that?\nTry to get so far so we took him right back\nI never knew broski was gonna juk him like that (Splash)\nI never knew broski was gonna cook him like that (Bow)\n3238 so we shook him like that\n2 eyes open keep looking and clap\nLike my bro Mad Max, he love jugging and trap\nShawty bend over, gwarn gooders (Woi)\nHe's in the air for screaming out Wooders\nYou ain't even stepped out at opp block purging\nGang lurking tryna junction jookers\nRide all night like the fourseat hookers\nWet, bang let it hot like cookers (Hot)\nMy broski ain't into the talking\nHe loves boring he should've worked at the butcher's\n\n[Chorus]\nBro put him in the air like he's taking a flight (Dead boy)\nHe ain't making it right\nOne shot, two shot, had him saving his life\nAlways had my rambo when I was raving at night\nCaught Dukes slipping, he weren't skating on ice\nGot caught off guard tryna straighten his eyes\nGot his head back, yep, boy come back here (Buss it)\nWhen they was here first weren't claiming them guys\nAye, gyal, arch up your back\nGyal, arch up your back, let me slide inside (Slide)\nHer ting soaking when I slide inside\nGot her leg shaking it's a water slide (Slippin', slippin')\nEveryone knows Broadwater slides\nSays she loves bad man, tell your daughter hide (Grr bow)\nEveryone knows Broadwater slides\nSays she loves bad man, tell your daughter hide\nYou might also like[Verse 2]\nI told my friends in jail keep your heads up high (Free 'em)\nHe got shot now his head's up high (Ha)\nShe got chat now her chest up high\nWhen I hit it from the side put her legs up high\nYou know 16 two peds up knives\nAnd know 16, bro cheffed it twice (Ching, ching)\nBroadwater Farm some reckless guys\nWho use dukies on reckless fights\nB put him in the air like he's taking holiday\nSorry, mate, I just made a hundred quid\nI'm getting fan love from hundred kids\nShow them boy there what hundred is\nI'm loyal to Farm, I'm a humble kid\nBring it out, I'll show you this jungle stick (Dutty gun)\nDon't stumble, prick, when Freddy Krueger gets the dumpin' quick\nThis 44 Magnum holds 6 rounds\nDrink magnum, now I'm giving her six rounds\nGrab her frontal and tell her to switch 'round\nI make her buss quick like the glizz when the sticks out (Grr)\n\n[Chorus]\nBro put him in the air like he's taking a flight\nHe ain't making it right\nOne shot, two shot, had him saving his life\nAlways had my rambo when I was raving at night\nCaught Dukes slipping, he weren't skating on ice\nGot caught off guard tryna straighten his eyes (Woi)\nGot his head back, yep, boy come back here\nWhen they was here first weren't claiming them guys (Leg one, leg one)\nAye, gyal, arch up your back\nGyal, arch up your back, let me slide inside\nHer ting soaking when I slide inside\nGot her leg shakin', it's a water slide (Slippin', slippin')\nEveryone knows Broadwater slides\nSays she loves bad man, tell your daughter hide\nEveryone knows Broadwater slides\nSays she loves bad man, tell your daughter hide\n[Outro]\nAh it's ruthless, man\nHide your fucking daughters, blud\nYou know summertime's coming, blud\nBout to get technical, Oi\nBrrrrr! Free the guys free the guys free the guys\nFTO\n(SB, Turn it up)\nTrust me\nGet right or get left\n(DT5 on the beat)Embed"
+  },
+  {
+   "annotation_count": 21,
+   "api_path": "/songs/5319242",
+   "artist_names": "Bandokay",
+   "full_title": "Can't Show No Emotion by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/a27c3b25c9d4cf5a677dbe7979653dc2.300x300x1.png",
+   "header_image_url": "https://images.genius.com/a27c3b25c9d4cf5a677dbe7979653dc2.1000x1000x1.png",
+   "id": 5319242,
+   "language": "en",
+   "lyrics_owner_id": 10384804,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-cant-show-no-emotion-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Bandokay-cant-show-no-emotion-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 3,
+    "day": 2
+   },
+   "release_date_for_display": "March 2, 2020",
+   "release_date_with_abbreviated_month_for_display": "Mar. 2, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a27c3b25c9d4cf5a677dbe7979653dc2.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/a27c3b25c9d4cf5a677dbe7979653dc2.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 21,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9311
+   },
+   "title": "Can\u2019t Show No Emotion",
+   "title_with_featured": "Can't Show No Emotion",
+   "url": "https://genius.com/Bandokay-cant-show-no-emotion-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1513634966",
+   "apple_music_player_url": "https://genius.com/songs/5319242/apple_music_player",
+   "description": {
+    "plain": "Unfortunately, this song was leaked on a couple of pages on Youtube and so currently it is unknown whether or not Bandokay and M1onthebeat have intentions of ever releasing this song officially. Nevertheless, Bandokay keeps his trademark flow consistent throughout, even adding some notable lines of wordplay. He raps with conviction and shows why he is currently at the top of the drill scene."
+   },
+   "embed_content": "<div id='rg_embed_link_5319242' class='rg_embed_link' data-song-id='5319242'>Read <a href='https://genius.com/Bandokay-cant-show-no-emotion-lyrics'>\u201cCan't Show No Emotion\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/5319242/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-03-02",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10384804,
+    "annotator_login": "Sarchie",
+    "api_path": "/referents/19199203",
+    "classification": "unreviewed",
+    "fragment": "Can\u2019t Show No Emotion",
+    "id": 19199203,
+    "is_description": true,
+    "path": "/19199203/Bandokay-cant-show-no-emotion/Cant-show-no-emotion",
+    "range": {
+     "content": "Can't Show No Emotion"
+    },
+    "song_id": 5319242,
+    "url": "https://genius.com/19199203/Bandokay-cant-show-no-emotion/Cant-show-no-emotion",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5319242",
+     "client_timestamps": {
+      "updated_by_human_at": 1648314052,
+      "lyrics_updated_at": 1648314052
+     },
+     "context": "Bandokay",
+     "id": 5319242,
+     "image_url": "https://images.genius.com/a27c3b25c9d4cf5a677dbe7979653dc2.1000x1000x1.png",
+     "link_title": "Can\u2019t Show No Emotion by\u00a0Bandokay",
+     "title": "Can't Show No Emotion",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-cant-show-no-emotion-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19199203",
+      "body": {
+       "plain": "Unfortunately, this song was leaked on a couple of pages on Youtube and so currently it is unknown whether or not Bandokay and M1onthebeat have intentions of ever releasing this song officially. Nevertheless, Bandokay keeps his trademark flow consistent throughout, even adding some notable lines of wordplay. He raps with conviction and shows why he is currently at the top of the drill scene."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 19199203,
+      "pinned": false,
+      "share_url": "https://genius.com/19199203",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/19199203/Bandokay-cant-show-no-emotion/Cant-show-no-emotion",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10384804",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c588a807628715bd484f01395f8dc4df",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c588a807628715bd484f01395f8dc4df",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c588a807628715bd484f01395f8dc4df",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c588a807628715bd484f01395f8dc4df",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c588a807628715bd484f01395f8dc4df",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10384804,
+         "iq": 553,
+         "login": "Sarchie",
+         "name": "Sarchie",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Sarchie",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=KNRwunaPOgI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1216869",
+     "header_image_url": "https://images.genius.com/840c0ce7c3acbcffb6c904daeb7a4238.1000x333x1.jpg",
+     "id": 1216869,
+     "image_url": "https://images.genius.com/a6d88319209a61baeb40473f40c6e25c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M1OnTheBeat",
+     "url": "https://genius.com/artists/M1onthebeat",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Can\u2019t Show No Emotion Lyrics[Intro]\nBando\nAdd a K to the O get blammed\nM1onthebeat\nYou know Free Slim Jim\nListen up, listen up\nYo\n\n[Chorus]\nI\u2005was\u2005tryna catch me\u2005a face but bro jumped out\u2005backed it and poked him\nSJ got nicked for a soaking,\u205finvolving,\u205fstill\u205fcan't show no\u205femotion\nMy lifers phone\u205fgyal and they lotion, my VV's shine, wet wet like the ocean\nBae bae want whines no emotion, commotion, don\u2019t get caught in the moment\n[Verse 1]\nMy aunt said pick up the mic and drop the knife, sorry aunt I can\u2019t do that\nI made bro spin the whip like who\u2019s that? Shoot that! Carry my man in the boot akh\nAll eyes on me like 2Pac\nChop it, pop it, bang it, boot that!\nJihadis, rallies, new jads\nOppers, paigons, bro cast new lads\nWhenever I step on stage got S on my mind, like he should be here though\nI dare man try play hero - rise that and fix my teeth like De Niro\nTion Wayne is a fucking weirdo\nSix in the spins, now bro got zero\nShe said I look cute when my hair\u2019s grown, I\u2019m on the nine piece looking like one scarecrow\nYo! Whenever I step on the field got my boots and gloves like Hugo Lloris\nI still gotta run from police with ice on my wrist and I might just freeze\nFeltham both playing for keeps like free SJ got me praying for weeks\nSpent a rack on my top and jeans, interview room who\u2019s spilling the beans?\nYo! Shawty want bruck her back, I want bruck this dots and slap that juicy\nHella slag in the ride like Lucy, excuse me, something got done in the two piece\nBally up, smoke man, move bookey, rise that mash all I hear \u2018Don\u2019t shoot me\u2019\nExcellent finish like Rooney\nJuice just spill like smoothies\nGyal wanna cuddle, can\u2019t smooch me, she got thick thighs and a big arse booty\nShe wanna go cinema no movies, telling her friends that I hit up her coochie\nYo! Run in the trap where\u2019s the food g? Move please, throw a packet and make two squeeze\nShe don\u2019t wear Primark just Gucci. Cutie, throwing it back unruly\nI\u2019m garn get me burner boy and get round there on the low\nBro just pulled up on volts, emptied the clip then went back home\nThis shotgun ain\u2019t tall like Krept, half it, half it same size as Kone\nMy bro got dipped back home, your bro got dipped in his right back bone\nYou might also like[Chorus]\nI was tryna catch me a face but bro jumped out backed it and poked him\nSJ got nicked for a soaking, involving, still can't show no emotion\nMy lifers phone gyal and they lotion, my VV's shine, wet wet like the ocean\nBae bae want whines no emotion, commotion, don\u2019t get caught in the moment\n\n[Chorus]\nI was tryna catch me a face but bro jumped out backed it and poked him\nSJ got nicked for a soaking, involving, still can't show no emotion\nMy lifers phone gyal and they lotion, my VV's shine, wet wet like the ocean\nBae bae want whines no emotion, commotion, don\u2019t get caught in the moment\n\n[Verse 2]\nYo! Wet that leave everything bloody\nCan\u2019t find him, ima do up your cuzzy\nPush the woosh with the woosh on a buggy\nChop the shotgun same size as Ruggy\nCruddy, next man short like Lovey\nShout my lighty coz she\u2019s got nuff money\nI seen bro try whip and he fucked it up, but then whipped again in no hurry\nAnd! Bro said \u2018mazza\u2019 and I said \u2018mazza\u2019 step on the gas go faster\nYou\u2019re gonna need more than a plaster, disaster, we don\u2019t believe in karma\nHaircuts, bro turned to a barber, I look like Lz in this black balaclava\nBaitface I look like my father, bro on the vis with a long arse charger\nSlim Jim just called from Feltham\nYo! Now they got down a opp again\nWe don\u2019t believe in them, round here we just believe in skengs\nAsk gyal, man\u2019s leaving them\nHit the opp block man\u2019s squeezing them\nYo! Pull up they\u2019re leaving friends\nChill with the opps get squeezed with them\n[Chorus]\nI was tryna catch me a face but bro jumped out backed it and poked him\nSJ got nicked for a soaking, involving, still can't show no emotion\nMy lifers phone gyal and they lotion, my VV's shine, wet wet like the ocean\nBae bae want whines no emotion, commotion, don\u2019t get caught in the moment\n\n[Chorus]\nI was tryna catch me a face but bro jumped out backed it and poked him\nSJ got nicked for a soaking, involving, still can't show no emotion\nMy lifers phone gyal and they lotion, my VV's shine, wet wet like the ocean\nBae bae want whines no emotion, commotion, don\u2019t get caught in the moment1Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/5663221",
+   "artist_names": "Bandokay",
+   "full_title": "Full Flick by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/70aaecee267538c99e2c5daf16eb41d7.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/70aaecee267538c99e2c5daf16eb41d7.500x500x1.jpg",
+   "id": 5663221,
+   "language": "en",
+   "lyrics_owner_id": 6139655,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-full-flick-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bandokay-full-flick-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 8,
+    "day": 20
+   },
+   "release_date_for_display": "August 20, 2020",
+   "release_date_with_abbreviated_month_for_display": "Aug. 20, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/70aaecee267538c99e2c5daf16eb41d7.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/70aaecee267538c99e2c5daf16eb41d7.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6147
+   },
+   "title": "Full Flick",
+   "title_with_featured": "Full Flick",
+   "url": "https://genius.com/Bandokay-full-flick-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1527410082",
+   "apple_music_player_url": "https://genius.com/songs/5663221/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5663221' class='rg_embed_link' data-song-id='5663221'>Read <a href='https://genius.com/Bandokay-full-flick-lyrics'>\u201cFull Flick\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/5663221/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-08-20",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Directed By",
+     "artists": [
+      {
+       "api_path": "/artists/1408028",
+       "header_image_url": "https://images.genius.com/7f86055c31179ad011e1319981f91af8.1000x182x1.jpg",
+       "id": 1408028,
+       "image_url": "https://images.genius.com/549d61b5faae02eb548cd3fe799659c2.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Myles Suave",
+       "url": "https://genius.com/artists/Myles-suave"
+      }
+     ]
+    },
+    {
+     "label": "Publishing & Copyright Clearance",
+     "artists": [
+      {
+       "api_path": "/artists/68399",
+       "header_image_url": "https://images.genius.com/a979f57d487ac9bf7d34acf13c2075ca.1000x562x1.jpeg",
+       "id": 68399,
+       "image_url": "https://images.genius.com/9f0d75ab96398a5f4fbd9b19bbee5951.800x800x1.jpeg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GRM Daily",
+       "url": "https://genius.com/artists/Grm-daily"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6327341,
+    "annotator_login": "ilovedrillmusic",
+    "api_path": "/referents/20086584",
+    "classification": "needs_exegesis",
+    "fragment": "Full Flick",
+    "id": 20086584,
+    "is_description": true,
+    "path": "/20086584/Bandokay-full-flick/Full-flick",
+    "range": {
+     "content": "Full Flick"
+    },
+    "song_id": 5663221,
+    "url": "https://genius.com/20086584/Bandokay-full-flick/Full-flick",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5663221",
+     "client_timestamps": {
+      "updated_by_human_at": 1667024129,
+      "lyrics_updated_at": 1637810700
+     },
+     "context": "Bandokay",
+     "id": 5663221,
+     "image_url": "https://images.genius.com/70aaecee267538c99e2c5daf16eb41d7.500x500x1.jpg",
+     "link_title": "Full Flick by\u00a0Bandokay",
+     "title": "Full Flick",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-full-flick-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20086584",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20086584,
+      "pinned": false,
+      "share_url": "https://genius.com/20086584",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20086584/Bandokay-full-flick/Full-flick",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6327341",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17097b9afc6aefd77c2be9b5fd3f2ba0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17097b9afc6aefd77c2be9b5fd3f2ba0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17097b9afc6aefd77c2be9b5fd3f2ba0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17097b9afc6aefd77c2be9b5fd3f2ba0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7tias1rwgpd",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6327341,
+         "iq": 21852,
+         "login": "ilovedrillmusic",
+         "name": "ilovedrillmusic",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ilovedrillmusic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "bandokay sc",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bandokay-sc/full-flick"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-XX-_Gpvr8A"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2271410",
+     "header_image_url": "https://images.genius.com/aa11b893655debe5162408cfd82315a9.100x100x1.jpg",
+     "id": 2271410,
+     "image_url": "https://images.genius.com/aa11b893655debe5162408cfd82315a9.100x100x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jmillz Production",
+     "url": "https://genius.com/artists/Jmillz-production"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 27,
+       "api_path": "/songs/5981879",
+       "artist_names": "Fumez The Engineer, OTP & Sava",
+       "full_title": "TPL x Fumez the Engineer - Plugged In Freestyle by\u00a0Fumez\u00a0The Engineer, OTP & Sava",
+       "header_image_thumbnail_url": "https://images.genius.com/cc9be1647c16b32191f47c060c7cce98.300x300x1.png",
+       "header_image_url": "https://images.genius.com/cc9be1647c16b32191f47c060c7cce98.1000x1000x1.png",
+       "id": 5981879,
+       "language": "en",
+       "lyrics_owner_id": 7935998,
+       "lyrics_state": "complete",
+       "path": "/Fumez-the-engineer-otp-and-sava-tpl-x-fumez-the-engineer-plugged-in-freestyle-lyrics",
+       "pyongs_count": 14,
+       "relationships_index_url": "https://genius.com/Fumez-the-engineer-otp-and-sava-tpl-x-fumez-the-engineer-plugged-in-freestyle-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 9,
+        "day": 30
+       },
+       "release_date_for_display": "September 30, 2020",
+       "release_date_with_abbreviated_month_for_display": "Sep. 30, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cc9be1647c16b32191f47c060c7cce98.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/cc9be1647c16b32191f47c060c7cce98.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 27,
+        "hot": false,
+        "pageviews": 515852
+       },
+       "title": "TPL x Fumez the Engineer - Plugged In Freestyle",
+       "title_with_featured": "TPL x Fumez the Engineer - Plugged In Freestyle",
+       "url": "https://genius.com/Fumez-the-engineer-otp-and-sava-tpl-x-fumez-the-engineer-plugged-in-freestyle-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3243108",
+        "header_image_url": "https://images.genius.com/ed686f27062959f1140042de7ddb09a4.466x466x1.jpg",
+        "id": 3243108,
+        "image_url": "https://images.genius.com/ed686f27062959f1140042de7ddb09a4.466x466x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fumez The Engineer, OTP & Sava",
+        "url": "https://genius.com/artists/Fumez-the-engineer-otp-and-sava"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Full Flick Lyrics[Verse 1]\nYo\nMy bro done burnt him, now he's burning\nStupid kids ain't learning\nTwo gyal, 'pon [?]\nTrust, been\u2005earning\nPut\u2005it in R,\u2005reversing\nYo, the opps dem turning\nT wan'\u2005burst him\nSo he popped up 'round burst him\nGang stay lurking\n[?]\u205fstay\u205fpurging\nEven\u205fon tag, wan'\u205fhurt him\nYo, who's\u205fthat brown skin? Ayo\nSpinnin' my head out this Ford Mondeo\nAyy, I love me a bad little shorty\nDrip on fleek, saucy, no mayo\nBro walked with the rambz not a draco\nIf he had that, a hundred he would spray-o\nAdd a K to the O, get blammed\nBut that's for the nine, I ain't talkin' K.O\nKO, KO, KO, KO\nBro gettin' done if I say so\nDone a drill, now my bro's gotta lay low\nToo much screams like them man play Halo\nOne step in the nizz and our block's too playful\nCome like Trinidad and Tobago\nSay no, say no, say no, say no\nBurn man's skin if we he say no\n[Chorus]\nBig racks, save that\nA hundred bags, man made that\nGyal ting, take that\nThrow bands in the air, make it rain, akh\nGot a new drippa now, man trained that\nFree Slim Jim, broski from way back\nWay back, kway back\nYou know it's all love when the gang get payback\nBig racks, save that\nA hundred bags, man made that\nGyal ting, take that\nThrow bands in the air, make it rain, akh\nGot a new drippa now, man trained that\nFree Slim Jim, broski from way back\nWay back, kway back\nYou know it's all love when the gang get payback\n\n[Verse 2]\nShe love dance with her hand in the air\nGot a hand on her hip when I'm holdin' my broom\nPop Smoke when I come to the party\nIn Dior drip, man shake that room, boom\nWhen's Kash home? Guess soon\nGot 8 do 4, man, I miss my goon\nBraddz fresh home, [?] fresh home\nFree [?]\nTrap ain't got no manners\nBust papers or with red bandanas\nHead loose, can't fix with spanners\nBangers, swear he love pulling them hammers\nCome Nizz and she coming for badderz\nBadderz, she just slapped bro, bro slappers\nGyal do balloon with crackers\nShe's preeing my ting, I can tell she a hatters\nFans scream my name in the crowd\nAnd I scream back \"Yo\", that's all that matters\nYo, I could tell you 'bout mazzas\nT bust off and everyone scattered\nLittle man got himself battered\nSlide on you, slide back? You're knackered\nShorty won't leave me alone\nShe ain't taking the bone, I ain't taking her Hakkas\nFull flick, big drip\nFull clips, big sticks\nPoppin' out O's outta big whips\nLeng ting wanna rub for this stick shit\nThey just freed my bro\nTell him \"Welcome home\" and the opps all mad cah we licked it\nI just met me a sav and he's younger than me and all he wan' do is dip it\nYou might also like[Chorus]\nBig racks, save that\nA hundred bags, man made that\nGyal ting, take that\nThrow bands in the air, make it rain, akh\nGot a new drippa now, man trained that\nFree Slim Jim, broski from way back\nWay back, kway back\nYou know it's all love when the gang get payback\nBig racks, save that\nA hundred bags, man made that\nGyal ting, take that\nThrow bands in the air, make it rain, akh\nGot a new drippa now, man trained that\nFree Slim Jim, broski from way back\nWay back, kway back\nYou know it's all love when the gang get payback\n\n[Outro]\n(Big racks, save that)\n(A hundred bags, man made that)\n(Gyal ting, take that)\n(Throw bands in the air, make it rain, akh)\n(Got a new drippa now, man trained that)\n(Free Slim Jim, broski from way back)\n(Way back, kway back)\n(You know it's all love when the gang get payback)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7158158",
+   "artist_names": "Bandokay",
+   "full_title": "Praise the Lord by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/af6996a2381f1ad1f44235ca06888f6f.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/af6996a2381f1ad1f44235ca06888f6f.1000x563x1.jpg",
+   "id": 7158158,
+   "language": "en",
+   "lyrics_owner_id": 6139655,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-praise-the-lord-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Bandokay-praise-the-lord-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 1,
+    "day": 14
+   },
+   "release_date_for_display": "January 14, 2022",
+   "release_date_with_abbreviated_month_for_display": "Jan. 14, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a9fe22417cc6c15d9a54c9868cffca43.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/a9fe22417cc6c15d9a54c9868cffca43.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 5,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Praise the Lord",
+   "title_with_featured": "Praise the Lord",
+   "url": "https://genius.com/Bandokay-praise-the-lord-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1597387895",
+   "apple_music_player_url": "https://genius.com/songs/7158158/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7158158' class='rg_embed_link' data-song-id='7158158'>Read <a href='https://genius.com/Bandokay-praise-the-lord-lyrics'>\u201cPraise the Lord\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/7158158/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-01-14",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/3267500",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "id": 3267500,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alpha Bravo studios",
+       "url": "https://genius.com/artists/Alpha-bravo-studios"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/549555",
+       "header_image_url": "https://images.genius.com/af7046e90e33fe524ec8fb3f3fc1642a.1000x333x1.jpg",
+       "id": 549555,
+       "image_url": "https://images.genius.com/a701e857aa5a64a113572ce01bf37eae.541x541x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dukus",
+       "url": "https://genius.com/artists/Dukus"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/68399",
+       "header_image_url": "https://images.genius.com/a979f57d487ac9bf7d34acf13c2075ca.1000x562x1.jpeg",
+       "id": 68399,
+       "image_url": "https://images.genius.com/9f0d75ab96398a5f4fbd9b19bbee5951.800x800x1.jpeg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GRM Daily",
+       "url": "https://genius.com/artists/Grm-daily"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 14287967,
+    "annotator_login": "TT90",
+    "api_path": "/referents/23855660",
+    "classification": "needs_exegesis",
+    "fragment": "Praise the Lord",
+    "id": 23855660,
+    "is_description": true,
+    "path": "/23855660/Bandokay-praise-the-lord/Praise-the-lord",
+    "range": {
+     "content": "Praise the Lord"
+    },
+    "song_id": 7158158,
+    "url": "https://genius.com/23855660/Bandokay-praise-the-lord/Praise-the-lord",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7158158",
+     "client_timestamps": {
+      "updated_by_human_at": 1660778205,
+      "lyrics_updated_at": 1642609312
+     },
+     "context": "Bandokay",
+     "id": 7158158,
+     "image_url": "https://images.genius.com/a9fe22417cc6c15d9a54c9868cffca43.1000x1000x1.png",
+     "link_title": "Praise the Lord by\u00a0Bandokay",
+     "title": "Praise the Lord",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-praise-the-lord-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23855660",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 23855660,
+      "pinned": false,
+      "share_url": "https://genius.com/23855660",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/23855660/Bandokay-praise-the-lord/Praise-the-lord",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/14287967",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a6886d5e880928fbd1e23a327dc1c3e0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a6886d5e880928fbd1e23a327dc1c3e0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a6886d5e880928fbd1e23a327dc1c3e0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a6886d5e880928fbd1e23a327dc1c3e0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/bbefa9c6b42f1c5ff8108e9c4eadb4fb.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 14287967,
+         "iq": 326370,
+         "login": "TT90",
+         "name": "TT90",
+         "role_for_display": "editor",
+         "url": "https://genius.com/TT90",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rpU6kJTqQHs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/26287",
+     "header_image_url": "https://images.genius.com/5110ff8bb343788d2303ee5d2cb232d0.520x520x1.png",
+     "id": 26287,
+     "image_url": "https://images.genius.com/5110ff8bb343788d2303ee5d2cb232d0.520x520x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BKay",
+     "url": "https://genius.com/artists/Bkay"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Praise the Lord Lyrics[Intro]\nAyy, Bands, ayy\n(BKay, baby)\nBands\n(Rah, it's BKay, you know)\nYeah, Lord, ayy\n\n[Chorus]\nPraise the Lord one time then praise him twice (Ayy, ayy, ayy, ayy)\nAll now, we're still taking, saving lives (Trust)\nMy young boy ching my man (Ying that)\nB, I got so much hate for the paigon guys (Ayy, ying that)\nI can't stand all the paigon lies (Nah)\nMy bro's tappin' a next paigon's wife (Nah, nah, brrt)\nPraise the Lord one time then praise him twice (Ayy, ayy, ayy, ayy)\nAll now, we're still taking, saving lives (Save it)\nMy young boy ching my man (Ying that)\nB, I got so much hate for the paigon guys (Ayy, ying that)\nI can't stand all the paigon lies\nMy bro's tappin' a next paigon's wife (Nah)\n[Verse 1]\nOpp block, trip on a paigon's side (Paigon's side)\nWatch the paigons hide (Skeet off)\nMy bro beat off at the paigon's ride\nWatch the car skeet off, fuck th\u0435 paigon's life\nEver seen a g-lock get to aiming bin\u0435\nWhen I touch the g-spot, it's a, \"shake you fine\"\nGot the mash and g-lock tryna rave and that\nI don't care what he's got, man's just breaking spines\nPraise the Lord one time then praise him again (Lord)\nHe got bunned one time, bro blazed him again (Bun)\nWe do 'nuff gun crime, shells raining again\nKeep raining on them, I don't rate none of them (Zero)\nEven on the backroad, I wouldn't snake one of them\nThey was envying me, I see the faking in them\nG'd up, mazzaleen, now it's shaking again\nNeed some extendos, haffi raise them again\nWhere's the extendos to my twin rinse-off?\nI seen him run that way, where did his friends go?\nOne shot, two shot, tryna hit his head, bro\nPut corn in your ears, you won't need headphones (Nah)\nCould've left by now, still in your ends though\nSwitch, nothin' like Nintendo\nMy little bro let go, body blow, wet bro\nBro made headstones 'cause he love wet zones\nAnd free Potter 'cah he love swing with it (Swing with it)\nProbably swim with it\nHe can talk duke noise, still bringin' it (Always)\nFTO, SYM, bare vim with it (Suck ya mum)\nFlingin' it, bro's pingin' it and chingin' it (Ayy)\nYo, see the LV pouch got a ting in it (Watch it)\nBut I hopped out and hopped back in, love trimming shit\nIf it ain't that, he's ringin' it (Ringin' it)\nYou might also like[Chorus]\nPraise the Lord one time then praise him twice (Ayy, ayy, ayy, ayy)\nAll now, we're still taking, saving lives (Save it)\nMy young boy ching my man\nB, I got so much hate for the paigon guys (Ying that, ying that)\nI can't stand all the paigon lies\nMy bro's tappin' a next paigon's wife (Ayy, ayy, ayy, ayy)\nPraise the Lord one time then praise him twice (Ayy, ayy, ayy, ayy)\nAll now, we're still taking, saving lives (Watch it)\nMy young boy ching my man (Ayy, ying that)\nB, I got so much hate for the paigon guys (Ayy, ying that, ying that)\nI can't stand all the paigon lies\nMy bro's tappin' a next paigon's wife\n\n[Verse 2]\nPlus I'm up in the field, now, slap an .8 ting\nI don't really rate him cah the yutes hate him\nWhen I see his face, gotta decorate it (Ying that)\nI told bro \"We're all one, no separating\" (All one)\nThe gang gets serious if we're all debating\nThat's VWF, the G's loves shaving\nRambos blazing, she keeps complaining\nShe keeps calling me \"Babes\" when it's not a babes ting\nAyy, gyal, lean with it, turn with it\nSee a man and burst him\nG-locks, FNs, ZKs, hurtin' him (Hurtin' him)\n[?]'s lurkin' shaky turbulence\nA lot of money, Farm Boys, and murderers\nSee, the other opp boys just hurdlers (Dickheads)\nI got kwengs locked up and burglars\nLike, bine, bine, bine (Brrt)\nThat's what you hear when the car was skidding\nBine, bine, bine (Brrt)\nThat's what you hear when my mates try wig him\nBine, bine, bine (Brrt)\nWe just gave him a shot and I'm sure it won't jam (Nah)\nWe just corned that punk cah he pulled that stunt (You know, you know)\nMet his friend in a blunt, probably called him a cunt now both of them are Runtz (Gelato)\n[Outro]\nShit, man\nRah, it's BKay, you know\nFuckin' hell1Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/7855929",
+   "artist_names": "Bandokay",
+   "full_title": "Tower Hill Freestyle by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/d50dd214fef97e11a50503126699f076.300x300x1.png",
+   "header_image_url": "https://images.genius.com/d50dd214fef97e11a50503126699f076.1000x1000x1.png",
+   "id": 7855929,
+   "language": "en",
+   "lyrics_owner_id": 2323597,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-tower-hill-freestyle-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Bandokay-tower-hill-freestyle-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 3,
+    "day": 31
+   },
+   "release_date_for_display": "March 31, 2022",
+   "release_date_with_abbreviated_month_for_display": "Mar. 31, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d50dd214fef97e11a50503126699f076.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/d50dd214fef97e11a50503126699f076.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tower Hill Freestyle",
+   "title_with_featured": "Tower Hill Freestyle",
+   "url": "https://genius.com/Bandokay-tower-hill-freestyle-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1615371642",
+   "apple_music_player_url": "https://genius.com/songs/7855929/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7855929' class='rg_embed_link' data-song-id='7855929'>Read <a href='https://genius.com/Bandokay-tower-hill-freestyle-lyrics'>\u201cTower Hill Freestyle\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/7855929/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-03-31",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1179873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "id": 1179873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Adam Lunn",
+       "url": "https://genius.com/artists/Adam-lunn"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/675145",
+       "header_image_url": "https://images.genius.com/f71dcf5d6f11549a2b587573016411cc.800x330x1.gif",
+       "id": 675145,
+       "image_url": "https://images.genius.com/fa9a2b83be812aa846738323173c4df1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polydor Records",
+       "url": "https://genius.com/artists/Polydor-records"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/675145",
+       "header_image_url": "https://images.genius.com/f71dcf5d6f11549a2b587573016411cc.800x330x1.gif",
+       "id": 675145,
+       "image_url": "https://images.genius.com/fa9a2b83be812aa846738323173c4df1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polydor Records",
+       "url": "https://genius.com/artists/Polydor-records"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/675145",
+       "header_image_url": "https://images.genius.com/f71dcf5d6f11549a2b587573016411cc.800x330x1.gif",
+       "id": 675145,
+       "image_url": "https://images.genius.com/fa9a2b83be812aa846738323173c4df1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polydor Records",
+       "url": "https://genius.com/artists/Polydor-records"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 14129986,
+    "annotator_login": "Verifiable",
+    "api_path": "/referents/25482036",
+    "classification": "needs_exegesis",
+    "fragment": "Tower Hill Freestyle",
+    "id": 25482036,
+    "is_description": true,
+    "path": "/25482036/Bandokay-tower-hill-freestyle/Tower-hill-freestyle",
+    "range": {
+     "content": "Tower Hill Freestyle"
+    },
+    "song_id": 7855929,
+    "url": "https://genius.com/25482036/Bandokay-tower-hill-freestyle/Tower-hill-freestyle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7855929",
+     "client_timestamps": {
+      "updated_by_human_at": 1680203209,
+      "lyrics_updated_at": 1680203209
+     },
+     "context": "Bandokay",
+     "id": 7855929,
+     "image_url": "https://images.genius.com/d50dd214fef97e11a50503126699f076.1000x1000x1.png",
+     "link_title": "Tower Hill Freestyle by\u00a0Bandokay",
+     "title": "Tower Hill Freestyle",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-tower-hill-freestyle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25482036",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25482036,
+      "pinned": false,
+      "share_url": "https://genius.com/25482036",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25482036/Bandokay-tower-hill-freestyle/Tower-hill-freestyle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/14129986",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/6053b9ad09b198a6cf4f9b4bf0fd9a02.300x300x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/6053b9ad09b198a6cf4f9b4bf0fd9a02.300x300x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/6053b9ad09b198a6cf4f9b4bf0fd9a02.300x300x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/6053b9ad09b198a6cf4f9b4bf0fd9a02.300x300x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/6b6d3b66c008ef94b22a9421dd528f96.300x300x1.jpg",
+         "human_readable_role_for_display": "Transcriber",
+         "id": 14129986,
+         "iq": 37470,
+         "login": "Verifiable",
+         "name": "\u200e krister",
+         "role_for_display": "transcriber",
+         "url": "https://genius.com/Verifiable",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "bandokay music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bandokay-music/tower-hill-freestyle"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bwEIDmTFCvQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/3114614",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "id": 3114614,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JamskullBeatz",
+     "url": "https://genius.com/artists/Jamskullbeatz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 48,
+       "api_path": "/songs/6428898",
+       "artist_names": "Sin Squad (SS) (Ft. LR & ND)",
+       "full_title": "Exposing Opps 2.0 by\u00a0Sin\u00a0Squad (SS) (Ft.\u00a0LR & ND)",
+       "header_image_thumbnail_url": "https://images.genius.com/6ea611db655a4e9000531cd253cb4640.300x300x1.png",
+       "header_image_url": "https://images.genius.com/6ea611db655a4e9000531cd253cb4640.1000x1000x1.png",
+       "id": 6428898,
+       "language": "en",
+       "lyrics_owner_id": 11337149,
+       "lyrics_state": "complete",
+       "path": "/Sin-squad-ss-exposing-opps-20-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sin-squad-ss-exposing-opps-20-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 28
+       },
+       "release_date_for_display": "January 28, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 28, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6ea611db655a4e9000531cd253cb4640.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/6ea611db655a4e9000531cd253cb4640.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 46,
+        "hot": false,
+        "pageviews": 21872
+       },
+       "title": "Exposing Opps 2.0",
+       "title_with_featured": "Exposing Opps 2.0 (Ft.\u00a0LR & ND)",
+       "url": "https://genius.com/Sin-squad-ss-exposing-opps-20-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1992014",
+         "header_image_url": "https://images.genius.com/b49e3d0935052bf0e1692da2a3614b2a.498x206x182.gif",
+         "id": 1992014,
+         "image_url": "https://images.genius.com/965e7affbd0dc10cd8164c47db360ade.465x465x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "ND",
+         "url": "https://genius.com/artists/Nd"
+        },
+        {
+         "api_path": "/artists/1992013",
+         "header_image_url": "https://images.genius.com/a84d69da8d80ad2d351613dd095491cb.1000x1000x1.jpg",
+         "id": 1992013,
+         "image_url": "https://images.genius.com/85168b2ec924a10ca6d08c17678557ce.524x524x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "LR",
+         "url": "https://genius.com/artists/Lr"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1352778",
+        "header_image_url": "https://images.genius.com/65cf2692a014b31b4083a92d3db6222c.1000x380x1.png",
+        "id": 1352778,
+        "image_url": "https://images.genius.com/eb8de426b75e19669370b1416aa629b8.633x633x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sin Squad (SS)",
+        "url": "https://genius.com/artists/Sin-squad-ss"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/3114614",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "id": 3114614,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JamskullBeatz",
+     "url": "https://genius.com/artists/Jamskullbeatz"
+    },
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Tower Hill Freestyle Lyrics[Intro]\nBando (Baow)\nBrrt, brrt, bwoy dead\nO way or no way (Grrt, bang)\nYo, Jamskull, they're here\nO's up or get soaked up (You know the vibes)\nFree Slim (Gang, gang)\nFree the fuckin' O (Baow, baow)\nListen, yo, yo\n\n[Verse]\nEleven shots up out the glizz', my nigga peppers dons (Glizzy)\nYou know I got it if you see me with my leathers on (I got it)\nAnd we don't care about the time or the weather, don (Nah)\nWe get the drop, we're turnin' up to do you steppers wrong (Listen)\nAnd Fans asking if I'm beefin' with Russ\nBands ain't beefin' with Russ, I let my killers hit your pathway (Baow, baow)\nI can never have beef on the internet (Why?)\nI'ma bad boy, I got beef up on Park Lane (NPK)\nI ain't really got beef with the 9iners, they're tired\nI'd rather go pattern some next beef (Listen)\nMy nigga chef Sneakz, free him up so he can wet Reepz (Haha)\nIf she's over there won't let the sket leave (Dumb hoe)\n'Cause if you're chillin' with the paigons (Woo)\nThen we're gonna make your life a mayhem (Woo)\nGun powder, that's my fragrance (Woo, woo)\nAnother opp gotta rest in peace\nAnd if I buck you one on one, you think I'll let you leave? (Never)\nI guarantee I soak you up and leave you next to trees (Ying)\nMy niggas next to me and we ain't doing ecstasy (Bun dat)\nWe get the drop and do a drill, that's how it's meant to be (Bang)\nLong live bro, all for you bodies garn drop (Baow)\nThe opps ain't safe even when they get their car washed (Stab tyres)\nI need a milli, label said I'm not far off (Ayy, ayy)\nThe A&R's on my back cah I'm a star boss (Bando)\nAnd forty bags on my neck, I'm only twenty, bro\nMy killy's locked, still hear me on his stereo (Free him up)\nThey say I always pop O's like a Cheerio\nThey got my name in their mouth, I'm like \"Here we go\" (Oi)\nI'm back and fourth in the booth, call it booth-trappin' (Ayy)\nSpoke on my nigga's name, he done two slappins (Baow)\nAnd you ain't never seen a glizz' with a laser (Never)\nMy little bro gripped that and had shoot at him\nThey aiming for legs, we ain't giving no leggies out (Leggies out)\nHit his headie now (Baow)\nGunman will step for the kid and they ready now (Ready now)\nAnyting can pop off, if so, get your readies out (Ayy)\nUp the .44 and cause nothin' but fatal damage (Baow)\nThey want war with the G's, you think they will manage? (Never)\nThis seventeen holds a lot in the clip, bro (Woi, woi)\nWe pull up to a function, at least eight will have it\nBro's white Airs were lookin' like red Forces\nThey're hearin' it wrong, fuck your dead sources\nI'm making money now, I need a stead' mortgage (Buy a yard)\nSo I can live life and buy some red Porches\nAnd why you preein' in the dance if you haven't got it? (Haven't got it)\nIt's gettin' people hurt, you fellas gotta stop it (For true though)\nWe dance with bare Ramey's and a couple rockets (Baow)\nI know the party's nice, but we gotta lock it (Bands)\n[Outro]\nOi, oi\nBrrt, haha\nHead back season\nProtect your head back (Bando)\nFree the fuckin' O\nTalkin' 'bout this and that\nListen, gunshotYou might also like1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7344569",
+   "artist_names": "Bandokay",
+   "full_title": "G Lock by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/7cf0a409c468832e6cf36ea0f49706c6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7cf0a409c468832e6cf36ea0f49706c6.500x500x1.jpg",
+   "id": 7344569,
+   "language": "en",
+   "lyrics_owner_id": 14129986,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-g-lock-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bandokay-g-lock-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 11,
+    "day": 1
+   },
+   "release_date_for_display": "November 1, 2021",
+   "release_date_with_abbreviated_month_for_display": "Nov. 1, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7cf0a409c468832e6cf36ea0f49706c6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7cf0a409c468832e6cf36ea0f49706c6.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "G Lock",
+   "title_with_featured": "G Lock",
+   "url": "https://genius.com/Bandokay-g-lock-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/7344569/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7344569' class='rg_embed_link' data-song-id='7344569'>Read <a href='https://genius.com/Bandokay-g-lock-lyrics'>\u201cG Lock\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/7344569/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "London, United Kingdom",
+   "release_date": "2021-11-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Publishing & Copyright Clearance",
+     "artists": [
+      {
+       "api_path": "/artists/68399",
+       "header_image_url": "https://images.genius.com/a979f57d487ac9bf7d34acf13c2075ca.1000x562x1.jpeg",
+       "id": 68399,
+       "image_url": "https://images.genius.com/9f0d75ab96398a5f4fbd9b19bbee5951.800x800x1.jpeg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GRM Daily",
+       "url": "https://genius.com/artists/Grm-daily"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 13037445,
+    "annotator_login": "fvkjordz",
+    "api_path": "/referents/24299878",
+    "classification": "needs_exegesis",
+    "fragment": "G Lock",
+    "id": 24299878,
+    "is_description": true,
+    "path": "/24299878/Bandokay-g-lock/G-lock",
+    "range": {
+     "content": "G Lock"
+    },
+    "song_id": 7344569,
+    "url": "https://genius.com/24299878/Bandokay-g-lock/G-lock",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7344569",
+     "client_timestamps": {
+      "updated_by_human_at": 1636816619,
+      "lyrics_updated_at": 1636816619
+     },
+     "context": "Bandokay",
+     "id": 7344569,
+     "image_url": "https://images.genius.com/7cf0a409c468832e6cf36ea0f49706c6.500x500x1.jpg",
+     "link_title": "G Lock by\u00a0Bandokay",
+     "title": "G Lock",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-g-lock-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24299878",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 24299878,
+      "pinned": false,
+      "share_url": "https://genius.com/24299878",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/24299878/Bandokay-g-lock/G-lock",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13037445",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/p6u8l5f3r09",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/p6u8l5f3r09",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/p6u8l5f3r09",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/p6u8l5f3r09",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/e6lphvz70wi",
+         "human_readable_role_for_display": "Contributor",
+         "id": 13037445,
+         "iq": 4417,
+         "login": "fvkjordz",
+         "name": "fvkjordz",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/fvkjordz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "uk_plug",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/uk_plug/ofb-bandokay-g-lock"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=M4ZgiCnhjd4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2374849",
+     "header_image_url": "https://images.genius.com/b5675c78cefd307f7861a3d003020891.1000x1000x1.jpg",
+     "id": 2374849,
+     "image_url": "https://images.genius.com/b5675c78cefd307f7861a3d003020891.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Harrijay",
+     "url": "https://genius.com/artists/Harrijay"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/108559",
+       "artist_names": "Suzanne Vega",
+       "full_title": "Tom's Diner by\u00a0Suzanne\u00a0Vega",
+       "header_image_thumbnail_url": "https://images.genius.com/a55b39e92c82c9aadccb4ddd31a1f8dd.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a55b39e92c82c9aadccb4ddd31a1f8dd.600x600x1.jpg",
+       "id": 108559,
+       "language": "en",
+       "lyrics_owner_id": 16,
+       "lyrics_state": "complete",
+       "path": "/Suzanne-vega-toms-diner-lyrics",
+       "pyongs_count": 19,
+       "relationships_index_url": "https://genius.com/Suzanne-vega-toms-diner-sample",
+       "release_date_components": {
+        "year": 1987,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 1987",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 1987",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a55b39e92c82c9aadccb4ddd31a1f8dd.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a55b39e92c82c9aadccb4ddd31a1f8dd.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 233243
+       },
+       "title": "Tom\u2019s Diner",
+       "title_with_featured": "Tom's Diner",
+       "url": "https://genius.com/Suzanne-vega-toms-diner-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/34602",
+        "header_image_url": "https://images.genius.com/8ddf8cf4ea3394fdc831bccc8892fef8.480x360x1.jpg",
+        "id": 34602,
+        "image_url": "https://images.genius.com/26a9df2990a4a773a62f83bcac9c4d9d.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Suzanne Vega",
+        "url": "https://genius.com/artists/Suzanne-vega"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": "https://genius.com/Stormzy-shut-up-sample/remixes",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "G Lock Lyrics[Intro]\nBando!\nIt's the hocus pocus Harrijay\nBai!\n\n[Verse 1]\nRise the g lock, watch him spit (Bye bye bye brr)\nRise\u2005the\u2005g lock, in\u2005your strip (Bye bye bye brr)\nRise\u2005the g lock, when we sliding (Then)\nRise the g lock, check the mileage (What else?)\nA 100 hot girl want the pipingYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/8386656",
+   "artist_names": "Bandokay",
+   "full_title": "Memories by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/70b93686efd966b68d44e52332fd3231.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/70b93686efd966b68d44e52332fd3231.1000x1000x1.jpg",
+   "id": 8386656,
+   "language": "en",
+   "lyrics_owner_id": 126836,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-memories-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bandokay-memories-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 9,
+    "day": 15
+   },
+   "release_date_for_display": "September 15, 2022",
+   "release_date_with_abbreviated_month_for_display": "Sep. 15, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/70b93686efd966b68d44e52332fd3231.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/70b93686efd966b68d44e52332fd3231.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 6,
+    "transcribers": 2,
+    "unreviewed_annotations": 7,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Memories",
+   "title_with_featured": "Memories",
+   "url": "https://genius.com/Bandokay-memories-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1644076178",
+   "apple_music_player_url": "https://genius.com/songs/8386656/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_8386656' class='rg_embed_link' data-song-id='8386656'>Read <a href='https://genius.com/Bandokay-memories-lyrics'>\u201cMemories\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/8386656/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-09-15",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/3378060",
+       "header_image_url": "https://images.genius.com/c161051187f48941c1f1e7618a499ae6.885x885x1.jpg",
+       "id": 3378060,
+       "image_url": "https://images.genius.com/c161051187f48941c1f1e7618a499ae6.885x885x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ItsTheBengineer",
+       "url": "https://genius.com/artists/Itsthebengineer"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 126836,
+    "annotator_login": "ChloeConlon",
+    "api_path": "/referents/26716196",
+    "classification": "needs_exegesis",
+    "fragment": "Memories",
+    "id": 26716196,
+    "is_description": true,
+    "path": "/26716196/Bandokay-memories/Memories",
+    "range": {
+     "content": "Memories"
+    },
+    "song_id": 8386656,
+    "url": "https://genius.com/26716196/Bandokay-memories/Memories",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8386656",
+     "client_timestamps": {
+      "updated_by_human_at": 1674945422,
+      "lyrics_updated_at": 1674945421
+     },
+     "context": "Bandokay",
+     "id": 8386656,
+     "image_url": "https://images.genius.com/70b93686efd966b68d44e52332fd3231.1000x1000x1.jpg",
+     "link_title": "Memories by\u00a0Bandokay",
+     "title": "Memories",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-memories-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/26716196",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 26716196,
+      "pinned": false,
+      "share_url": "https://genius.com/26716196",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/26716196/Bandokay-memories/Memories",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/126836",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/27d4ff0a8726ba5d0d06dc681ee8d18e.480x270x23.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 126836,
+         "iq": 3394648,
+         "login": "ChloeConlon",
+         "name": "Chloe Conlon \u2618\ufe0f",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/ChloeConlon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/126836",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/2f4efbb8d2031e656696b1f2e029c742",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/2f4efbb8d2031e656696b1f2e029c742",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/2f4efbb8d2031e656696b1f2e029c742",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/2f4efbb8d2031e656696b1f2e029c742",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/27d4ff0a8726ba5d0d06dc681ee8d18e.480x270x23.gif",
+    "human_readable_role_for_display": "Moderator",
+    "id": 126836,
+    "iq": 3394648,
+    "login": "ChloeConlon",
+    "name": "Chloe Conlon \u2618\ufe0f",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/ChloeConlon",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1paAv754cPE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/3114614",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "id": 3114614,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JamskullBeatz",
+     "url": "https://genius.com/artists/Jamskullbeatz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1687247",
+     "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+     "id": 1687247,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bandokay",
+     "url": "https://genius.com/artists/Bandokay"
+    },
+    {
+     "api_path": "/artists/3114614",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "id": 3114614,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680811036",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JamskullBeatz",
+     "url": "https://genius.com/artists/Jamskullbeatz"
+    }
+   ],
+   "artist": "Bandokay",
+   "lyrics": "Memories Lyrics[Intro]\nBands\n(Yo, Jamskull)\nBando\nHmm, brr\nBoi, boi, haha\n\n[Verse 1]\nSo much memories from the past you can't bring back (Nah)\nYou ever think that?\nZheetos in my spliff, lemme think back\nGot me crushin' on my loud, I asked bro, \"Where's the chip, akh?\"\nHe ain't a bad boy, he needs to sit back\nCarrera or Ridgeback (Ayy), that was me and my flick nank\nBroad day or pitch black (Broad day or pitch black)\nBroad day or pitch black (Broad day or pitch black)\nGot me wearin' Trapstar, it's a secret (Ssh)\nGot my strap in a car for these eediats (Boi)\nSpoke to my nan and she said I'm a genius (Nanny)\nBelieve yourself, believe Jesus\nPolice killed my dad though, they still got me mad, bro (Stress)\nMy little sis' confused wher\u0435 her dad go\nA hundred bags, wher\u0435? What is that? Yo (Mad)\nMy name's Bando\nI'll make that off a trap phone\nProbably even more, where's my cash? Yo (Ayy, watch it)\nGot me feelin' fly like a helicopter (Woo)\nSee if ever robbed ya\nSuck your mum, I never cheated, cheaters never prosper (Never)\nI need to win a Oscar (Mad)\nThey need to see a doctor (Now)\nI'm seein' so much money, I can't count it proper (Boi, boi)\nTwin barrel shotgun, we shot some\nThey're rappin' about burners, but what burners?\nThey ain't got none (Wap this)\nMy nigga caught a L plate and still got funds (Free him)\nWe had the GP on deck with the Glock gun\nTalkin' 'bout readys, bring your readys out\nBow, hit his headie now (Boi, boi)\nBBC News, he's on tele' now\nIf it jams up, cock it back and it's ready now\nShut down any town, anyhow\nBands, I'm back for good, real talk, man, I'm back and better (Yo)\nI told bro, \"We see opps, you better back your wetter\" (Yo)\nAnd if you're on the other side, you better back your bredda\nTalk up, me, I chat whenever, big Beretta\n[Interlude]\n(Oi, take me in, Bands, brrr)\nBare RIPs and 3's\nYou know how the ting set, man\n(Mm-mm, merky)\nStill 3 the murder team\nFree S, free Boogie (Boi, boi, trust)\nFree my trappers, free Bricks (It's murder)\nFree Baz, free T1 (Free them all)\nFree Vale (Fuck the opps)\n\n[Verse 2]\nI told Bug, \"Stop goin' jail\" (Stop it)\nThey asked, \"How's the music?\" I say, \"It's goin' well\" (So far)\nI told God, \"I'm goin' heaven, I ain't goin' hell\" (Father God)\nGo again if I go and fail, I do it for the O as well (Boi, boi)\nStand on my block, I should be up in the booth though (Ayy)\nMe plus gang, two waps in the studio (Boi)\nLV bags in the boot, press the key, made the boot close (Sheesh)\nAnd fuck them other guys, might rob 'em, like who knows? (Haha)\nEarly morn' in the cemetery\nJust me Uncle Spangz with a bit a Henny (Spangz)\nI'm forever Starrish and I'm forever ready (Forever)\nThey took my pops and we lost Smeggy (Ayy, ayy)\nBoth my legs turned jelly\nThe fans want my mixtape, I'm like here we go (Let's go)\nI spoke the truth in this tune, you better hear me, bro (You know)\nI'm in this 4x4 with no gears you know (Ayy)\nI'm still the kid from the farm with no fears on go\nI'm in the trenches with hot fries (Boi)\nMy killlas drop guys (Ayy)\nAnd you ain't ever seen a Tauras or Glock 9 (Never)\nDotty or the Glock bine\nThey're tryna stop crime\nI'm tryna make a hundred M's, I still got time (Watch it)\nYo, I'm tryna make a hundred M's within no time (Trust)\nIt's all mad, I was four back in '05 (Facts)\nI was young, we was chillin' with the old guys (Ayy)\nAnd we don't shoot man once, you can hold five (Boi)\nStep with the Glock or the Tre 2 (Brr)\nDrill and get paid too\nBroad day, the guys doin' bait moves\nI drink Henny, not Grey Goose (Trust)\nLong nose in my man bag\nI'll pop out and blaze yutes (Boi)\nYou might also like[Outro]\nStep with the Glock or the Tre 2 (Step it)\nDrill and get paid too\nBroad day, the guys doin' bait moves (Ayy)\nI drink Henny, not Grey Goose\nLong nose in my man bag\nI'll pop out and blaze yutes\nBands, ayyEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/8993450",
+   "artist_names": "Bandokay",
+   "full_title": "Live by\u00a0Bandokay",
+   "header_image_thumbnail_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+   "id": 8993450,
+   "language": "en",
+   "lyrics_owner_id": 20187304,
+   "lyrics_state": "complete",
+   "path": "/Bandokay-live-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bandokay-live-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false
+   },
+   "title": "Live",
+   "title_with_featured": "Live",
+   "url": "https://genius.com/Bandokay-live-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1687247",
+    "header_image_url": "https://images.genius.com/0c9a0cfc69be9a2de8362f1d03cb9428.460x259x43.gif",
+    "id": 1687247,
+    "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bandokay",
+    "url": "https://genius.com/artists/Bandokay"
+   },
+   "apple_music_id": "1679020906",
+   "apple_music_player_url": "https://genius.com/songs/8993450/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_8993450' class='rg_embed_link' data-song-id='8993450'>Read <a href='https://genius.com/Bandokay-live-lyrics'>\u201cLive\u201d by Bandokay</a> on Genius</div> <script crossorigin src='//genius.com/songs/8993450/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 20187304,
+    "annotator_login": "ItzV3Mor",
+    "api_path": "/referents/28219828",
+    "classification": "needs_exegesis",
+    "fragment": "Live",
+    "id": 28219828,
+    "is_description": true,
+    "path": "/28219828/Bandokay-live/Live",
+    "range": {
+     "content": "Live"
+    },
+    "song_id": 8993450,
+    "url": "https://genius.com/28219828/Bandokay-live/Live",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8993450",
+     "client_timestamps": {
+      "updated_by_human_at": 1680859771,
+      "lyrics_updated_at": 1680858469
+     },
+     "context": "Bandokay",
+     "id": 8993450,
+     "image_url": "https://images.genius.com/9efe6ee3800777d4bf69a4ac61fec05a.770x770x1.jpg",
+     "link_title": "Live by\u00a0Bandokay",
+     "title": "Live",
+     "type": "Song",
+     "url": "https://genius.com/Bandokay-live-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/28219828",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 28219828,
+      "pinned": false,
+      "share_url": "https://genius.com/28219828",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/28219828/Bandokay-live/Live",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/20187304",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c6ef3858ad12bb1a4a4f94cf93f0789c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c6ef3858ad12bb1a4a4f94cf93f0789c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c6ef3858ad12bb1a4a4f94cf93f0789c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c6ef3858ad12bb1a4a4f94cf93f0789c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c6ef3858ad12bb1a4a4f94cf93f0789c",
+         "human_readable_role_for_display": null,
+         "id": 20187304,
+         "iq": 206,
+         "login": "ItzV3Mor",
+         "name": "ItzV3Mor",
+         "role_for_display": null,
+         "url": "https://genius.com/ItzV3Mor",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Bandokay",
+   "lyrics": "Live Lyrics[ Verse 1 ]\n\nSo lil boy tell me where ya shooters\nShoot then when shoot it back\nLiterally do the maths\nI was outside wit my handy\nParked by tangee\nMe or spangy the opps can't stand me\nCos I make corn run through your flats\nCorn jus blew his hat\nBros tryna kill blue ...\nAnd make them alla them utes want bluey back\n016 that was me wit my truey hat\nLil bro why you go do him that\n\nWe had the dots in the garden parked\nOff\nKlap jus barked off\nOpps come nizz sent them back out the\nFarm blocks ring like alarm clocks\nSurtn got hit by the bow he was shocked wen the car stopped\nBucked into ab bands went crazy\nBrazy\nHe's diving away man I know that\nHis heart dropped\nCali not star dog\nStrapped in the car wash\nBands ina bentley truck the cars off\n\nSay the wrong word I'll shoot or cheff him corn garn him up\nBlood gon mess him up\nDoctors dress him up\nWe put ya mans in the air go get him blud\nSo wen you chill on the l expect to run\nLil bros extra dumb\nYardie dance got 1 in the head catch 1 in\nYour head so don't forget your gun bring a extra one holos bless the punk\nYou might also like32s 38s I got 10 in my gun\nGet me mad and I rise up my Macarov\nJump out slap it off have man dashing off\nRun with his vest headshot I'll pack him off\nBrodie was wanted murder gripped on his burna went tp started slapping off\nHow many guns have we had we had a\nLot still got pistosl to lurk pon a bagga block\n\nSaid she love gunmen so hide all our gunsthen mask on my face wen I walk in the function\nFeeling marky back in 09 ting on my waist tryna clapham no junction\nCause destruction for alla dese punkdem\nCivili got his cos he cause he caused obstruction\nYoung boy goings straight to back to induction\nTold him hit bradz he followed instructions\n\nRamz just left him\nMiserable\nS on his pinnical\nAnti and digital\nBroadwatergangway\nNizzy original\nIzzy gets busy\nTry blend in your car you are still visible\nGunmoke typical\nF wit the bow my boy he's wit it all\nShawtay you need to leave him cah your wit a fool\nNeed a rayzer not my darg from Liverpool\n[ Chorus ]\n\nI told Glo link me\nYou got you gun on you\nIncase somebody try run on you\nLong time that I stepped on the W\nGet me mad bring akz and doublez thru\nFly out the ride\nTry run Imma runner to\nShells garn run at you\nBro done bun a few\nSlim got one turnt round got the other ute\nBoogs love blood ah UTE\nDaps he ah shotta to\n\n[ Verse 2 ]\n\nPotta done marvin\nHad gang laughing\nHad to wet him up cos\nThe dots weren't blasting\nGo on then ask him\nBug shot a man couldn't dare drive\nPast him\nFor anyone asking\nWe the ones pulling up\nBlacked out hoodies up\nFirearms on the l discharging\nAkz won't miss he'll blast him\nBetter do high knees and be on fast ting\n\nPretty bitch\nWet pussy\nShe's bad ahlie\nLet man analyse\nBlow her back tonight\nWaps I fantasize\nGet man mad and I\nWill step round there and tan a guy\nReact quick like dan and kaz\nHow you the man and brass need to maximise\nCos if ur bad on snap you better back\nUr chat cos if I back my wap I need alibis\n\nPut her in the merc we ain't going to eat\nI'm taking her str8 to the nizz\nSay hello to the gang\nI brought my hand my rambo put it straigh in the whip\n20 gyal on the nizz\nThey love gang cah we're caking it in\nI still roll wit bow still taking a risk\nI ain't taking a diss are you silly\n\n[ Chorus ]\n\nI told Glo link me\nYou got you gun on you\nIncase somebody try run on you\nLong time that I stepped on the w\nGet me mad bring akz and doublez thru\nFly out the ride\nTry run Imma runner to\nShells garn run at you\nBro done bun a few\nSlim got one turnt round got the other ute\nBoogs love blood ah ute\nDaps he ah shotta toEmbed"
+  }
+ ]
+}
